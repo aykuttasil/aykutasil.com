@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Aykut Asil</title>
+    <link>http://www.aykutasil.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on Aykut Asil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2017 01:11:36 +0300</lastBuildDate>
+    <atom:link href="http://www.aykutasil.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FirstPage</title>
+      <link>http://www.aykutasil.com/2017/01/firstpage/</link>
+      <pubDate>Mon, 02 Jan 2017 01:11:36 +0300</pubDate>
+      
+      <guid>http://www.aykutasil.com/2017/01/firstpage/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Merhaba&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
